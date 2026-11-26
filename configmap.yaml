@@ -4,6 +4,6 @@ metadata:
   name: banking-config
 data:
   LOG_LEVEL: "INFO"
-  TIMEOUT: "30"
+  TIMEOUT: "90"
   MAX_CONNECTIONS: "100"
   RETRIES: "3"
