@@ -6,4 +6,4 @@ data:
   LOG_LEVEL: "INFO"
   TIMEOUT: "90"
   MAX_CONNECTIONS: "150"
-  RETRIES: "3"
+  RETRIES: "5"
