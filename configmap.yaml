@@ -3,7 +3,7 @@ kind: ConfigMap
 metadata:
   name: banking-config
 data:
-  LOG_LEVEL: "INFO"
+  LOG_LEVEL: "DEBUG"
   TIMEOUT: "90"
-  MAX_CONNECTIONS: "150"
+  MAX_CONNECTIONS: "250"
   RETRIES: "5"
