@@ -7,3 +7,4 @@ data:
   TIMEOUT: "90"
   MAX_CONNECTIONS: "250"
   RETRIES: "5"
+  MONITORING: "enabled"
